@@ -10,10 +10,34 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2015 08:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2015 14:30:55 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[webfont updated to version 1.5.19]]></title>
+            <description><![CDATA[The WebFont Loader is a JavaScript library that gives you more control over font loading than the Google Font API provides.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/webfont/1.5.19/webfontloader.js">//cdnjs.cloudflare.com/ajax/libs/webfont/1.5.19/webfontloader.js</a>]]></description>
+            <link>http://code.google.com/apis/webfonts/docs/webfont_loader.html</link>
+            <guid isPermaLink="false">webfont1.5.19</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 24 May 2015 14:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[chroma-js updated to version 0.7.4]]></title>
+            <description><![CDATA[JavaScript library for color conversions<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chroma-js/0.7.4/chroma.min.js">//cdnjs.cloudflare.com/ajax/libs/chroma-js/0.7.4/chroma.min.js</a>]]></description>
+            <link>https://github.com/gka/chroma.js</link>
+            <guid isPermaLink="false">chroma-js0.7.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 24 May 2015 14:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[algoliasearch updated to version 3.4.0]]></title>
+            <description><![CDATA[Algolia Search JavaScript API Client<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.4.0/algoliasearch.min.js">//cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.4.0/algoliasearch.min.js</a>]]></description>
+            <link>https://github.com/algolia/algoliasearch-client-js</link>
+            <guid isPermaLink="false">algoliasearch3.4.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 24 May 2015 14:15:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[textAngular updated to version 1.4.0]]></title>
             <description><![CDATA[A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/textAngular/1.4.0/dist/textAngular.min.js">//cdnjs.cloudflare.com/ajax/libs/textAngular/1.4.0/dist/textAngular.min.js</a>]]></description>
@@ -991,14 +1015,6 @@
             <pubDate>Fri, 15 May 2015 09:35:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[algoliasearch updated to version 3.3.2]]></title>
-            <description><![CDATA[Algolia Search JavaScript API Client<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.3.2/algoliasearch.min.js">//cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.3.2/algoliasearch.min.js</a>]]></description>
-            <link>https://github.com/algolia/algoliasearch-client-js</link>
-            <guid isPermaLink="false">algoliasearch3.3.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 15 May 2015 09:34:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[shepherd updated to version 0.7.2]]></title>
             <description><![CDATA[Guide your users through a tour of your app.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/shepherd/0.7.2/shepherd.min.js">//cdnjs.cloudflare.com/ajax/libs/shepherd/0.7.2/shepherd.min.js</a>]]></description>
             <guid isPermaLink="false">shepherd0.7.2</guid>
@@ -1241,13 +1257,6 @@
             <guid isPermaLink="false">angular-smart-table2.0.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 11 May 2015 05:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[dragdealer(0.9.8) was added]]></title>
-            <description><![CDATA[Drag-based JavaScript component, embracing endless UI solutions<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/dragdealer/0.9.8/dragdealer.min.js">//cdnjs.cloudflare.com/ajax/libs/dragdealer/0.9.8/dragdealer.min.js</a>]]></description>
-            <guid isPermaLink="false">dragdealer0.9.8</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 09 May 2015 16:30:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
