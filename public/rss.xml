@@ -10,7 +10,7 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2015 14:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2015 15:41:35 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
@@ -29,6 +29,14 @@
             <guid isPermaLink="false">chroma-js0.7.4</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 24 May 2015 14:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[raphael updated to version 2.1.4]]></title>
+            <description><![CDATA[Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.4/raphael-min.js">//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.4/raphael-min.js</a>]]></description>
+            <link>http://raphaeljs.com/</link>
+            <guid isPermaLink="false">raphael2.1.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 24 May 2015 14:16:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[algoliasearch updated to version 3.4.0]]></title>
