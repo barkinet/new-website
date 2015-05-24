@@ -10,10 +10,26 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2015 08:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2015 08:42:22 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[textAngular updated to version 1.4.0]]></title>
+            <description><![CDATA[A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/textAngular/1.4.0/dist/textAngular.min.js">//cdnjs.cloudflare.com/ajax/libs/textAngular/1.4.0/dist/textAngular.min.js</a>]]></description>
+            <link>http://textAngular.com</link>
+            <guid isPermaLink="false">textAngular1.4.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 24 May 2015 07:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lrsjng.jquery-qrcode updated to version 0.12.0]]></title>
+            <description><![CDATA[generate QR codes dynamically<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lrsjng.jquery-qrcode/0.12.0/jquery.qrcode.min.js">//cdnjs.cloudflare.com/ajax/libs/lrsjng.jquery-qrcode/0.12.0/jquery.qrcode.min.js</a>]]></description>
+            <link>http://larsjung.de/jquery-qrcode/</link>
+            <guid isPermaLink="false">lrsjng.jquery-qrcode0.12.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 24 May 2015 07:34:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ifvisible updated to version 1.0.3]]></title>
             <description><![CDATA[Crossbrowser & lightweight way to check if user is looking at the page or interacting with it. (wrapper around HTML5 visibility api)<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ifvisible/1.0.3/ifvisible.min.js">//cdnjs.cloudflare.com/ajax/libs/ifvisible/1.0.3/ifvisible.min.js</a>]]></description>
